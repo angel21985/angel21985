@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sin Angel No Hay... </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Angel...! </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a data scientist intern after completing my undergraduation in the year 2022. <br>Soon, I would be joining any of Computer Science program.</p>
 
