@@ -36,7 +36,6 @@
 <a href="https://linkedin.com/in/angel-maldonado-70634a17"><img src="https://img.shields.io/badge/-Angel%20Maldonado-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:angel.2.1985@gmail.com"><img src="https://img.shields.io/badge/-angel.2.1985@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/angel21985"><img src="https://img.shields.io/badge/-angel21985-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
